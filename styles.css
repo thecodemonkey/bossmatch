@@ -24,9 +24,9 @@ h1{
 }
 
 .subtitle {
-    color: #000;
+    color: #fff;
     font-style: italic;
-    letter-spacing: .3px;
+    letter-spacing: 1px;
     padding: 5px 0;
     font-size: 1rem;
     font-weight: 400;
