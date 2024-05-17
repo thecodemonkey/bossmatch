@@ -16,4 +16,8 @@ h1{
 
 p {
   margin-left:50px;
+    color: antiquewhite;
+    font-style: italic;
+    letter-spacing: .3px;
+    margin-top: 10px;
 }
