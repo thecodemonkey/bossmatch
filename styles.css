@@ -15,6 +15,7 @@ body{
  margin: 100px;
  text-align: center;
  width: fit-content;
+    transform: scale(1.5);
 }
 
 h1{
@@ -47,4 +48,8 @@ h1{
     .subtitle{
         text-shadow: 1px 1px 5px #97fffa;
     }
+
+  .claim{
+      transform: scale(1);
+  }
 }
