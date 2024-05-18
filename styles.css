@@ -3,6 +3,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+
+    background-color: #000;
+
+    
     font-family: sans-serif;
 
     display:flex;
@@ -15,7 +19,7 @@ body{
  margin: 100px;
  text-align: center;
  width: fit-content;
-    transform: scale(1.5);
+    transform: scale(2.5);
 }
 
 h1{
