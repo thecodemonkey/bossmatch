@@ -1,5 +1,5 @@
 body{
-    background-image: url('bossmatch.jpg');
+    background-image: url('bossmatch.done.phone.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -49,6 +49,8 @@ h1{
 @media (min-width: 1024px) {
   body {
     display: block;
+background-image: url('bossmatch.jpg');
+      
   }
 
     .subtitle{
