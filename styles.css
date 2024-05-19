@@ -33,6 +33,7 @@ h1{
     width: fit-content;
     padding: 10px 40px;
   margin: 0;
+    box-shadow: 5px 5px 55px 5px #ff007b;
 }
 
 .subtitle {
