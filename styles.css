@@ -36,15 +36,15 @@ h1{
     box-shadow: 5px 5px 55px 5px #ff007b;
 }
 
-.subtitle {
-    color: #97fffa;
+.subtitle {    
+    color: #000000;
     font-style: italic;
     letter-spacing: 1px;
-    padding: 5px 0;
-    font-size: 1rem;
-    font-weight: 400;
+    padding: 10px 0;
+    font-size: 1.2rem;
+    font-weight: 600;
     margin: 0;
-    text-shadow: 1px 1px 15px #000000;
+    text-shadow: 1px 1px 15px #ffffff;
 }
 
 @media (min-width: 1024px) {
@@ -55,7 +55,7 @@ background-image: url('bossmatch.jpg');
   }
 
     .subtitle{
-        text-shadow: 1px 1px 5px #97fffa;
+        text-shadow: 1px 1px 15px #97fffa;
     }
 
   .claim{
