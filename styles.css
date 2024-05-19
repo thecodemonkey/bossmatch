@@ -61,5 +61,6 @@ background-image: url('bossmatch.jpg');
   .claim{
       margin: 100px;
       transform: scale(1);
+      font-size: 1rem;
   }
 }
